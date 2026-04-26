@@ -26,7 +26,7 @@ Interactive dashboards, ETL pipelines, and data analysis projects built with Tab
 ### 3. Private Credit & Direct Lending
 **Tools:** Python, Databricks, SQL, Tableau 
 **Description:** Analysis of the $1.7T private credit market. Includes ETL pipeline, SQL transformations in Databricks, and interactive Tableau dashboard.
-🔗 Coming soon
+🔗 (https://github.com/memecode-pixel/data-analytics-portfolio/tree/main/03-direct-lending)
 
 ---
 
