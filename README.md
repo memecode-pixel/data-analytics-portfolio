@@ -31,12 +31,14 @@ Interactive dashboards, ETL pipelines, and data analysis projects built with Tab
 
 ---
 
-### 4. Energy & Renewables — LATAM
-**Tools:** Python, IRENA API, Tableau
-**Description:** Investment and capacity analysis of renewable energy across Latin America.
-🔗 Coming soon
+### 4. Insurance & Beyond — LATAM
+
+**Tools:** Python, OECD API, SQL, Tableau | **Description:** ELT pipeline and interactive Tableau dashboard analyzing life and non-life insurance market indicators across 17 Latin American countries (2018–2022).
+
+[GitHub](https://github.com/memecode-pixel/data-analytics-portfolio/tree/main/latam-insurance-dashboard) | [View Dashboard](#)
 
 ---
+
 
 ### 5. Social Media Analytics
 **Tools:** Python, Kaggle Dataset, Tableau 
