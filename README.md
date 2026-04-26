@@ -9,7 +9,7 @@ Interactive dashboards, ETL pipelines, and data analysis projects built with Tab
 
 ## Projects
 
-### 1. 🌎 LATAM Housing Market Analysis
+### 1.  LATAM Housing Market Analysis
 **Tools:** Python, World Bank API, Tableau 
 **Description:** Analysis of housing affordability, mortgage rates, and GDP per capita across 15 Latin American countries (2019-2023).
 🔗 [View Dashboard](https://public.tableau.com/app/profile/emely.lopez8421)
