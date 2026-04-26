@@ -30,7 +30,6 @@ Interactive dashboards, ETL pipelines, and data analysis projects built with Tab
 [GitHub](https://github.com/memecode-pixel/data-analytics-portfolio/tree/main/03-direct-lending) | [View Dashboard](https://public.tableau.com/views/PrivateCreditDirectLending-TheRiseofa1_7TMarket/Dashboard1?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
----
 
 ### 4. Energy & Renewables — LATAM
 **Tools:** Python, IRENA API, Tableau
