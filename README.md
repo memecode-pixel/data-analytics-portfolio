@@ -52,9 +52,9 @@ Interactive dashboards, ETL pipelines, and data analysis projects built with Tab
 ---
 
 ## Tech Stack
-- **Visualization:** Tableau, Figma
-- **Languages:** Python, SQL
-- **Cloud:** Databricks
+- **Visualization:** Tableau, Figma, Power Bi, Excel, Adobe Illustrator, Service Now
+- **Languages:** Python, SQL, Java
+- **Cloud:** Databricks, Snowflake
 - **Libraries:** Pandas, wbdata, NLTK, BeautifulSoup
 - **Version Control:** Git, GitHub
 
