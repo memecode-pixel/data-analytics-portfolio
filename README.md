@@ -39,21 +39,6 @@ Interactive dashboards, ETL pipelines, and data analysis projects built with Tab
 
 ---
 
-
-### 5. Social Media Analytics
-**Tools:** Python, Kaggle Dataset, Tableau 
-**Description:** Social media performance metrics dashboard.
-🔗 Coming soon
-
----
-
-### 6. Elecciones Costa Rica 2026
-**Tools:** Python, Web Scraping, NLP, YouTube API, Tableau 
-**Description:** Electoral results by province and canton + sentiment analysis of YouTube comments by candidate over time.
-🔗 Coming soon
-
----
-
 ## Tech Stack
 - **Visualization:** Tableau, Figma, Power Bi, Excel, Adobe Illustrator, Service Now
 - **Languages:** Python, SQL, Java
