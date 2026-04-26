@@ -1,13 +1,13 @@
 # data-analytics-portfolio
  Tableau dashboards, ETL pipelines and data analysis projects
-# 📊 Data Analytics Portfolio
-### Emely Lopez | Data Analyst
+#  Portfolio
+### Emely Lopez | Data Visualization
 
 Interactive dashboards, ETL pipelines, and data analysis projects built with Tableau, Python, SQL, and Databricks.
 
 ---
 
-## 🗂️ Projects
+## Projects
 
 ### 1. 🌎 LATAM Housing Market Analysis
 **Tools:** Python, World Bank API, Tableau 
