@@ -31,7 +31,7 @@ Interactive dashboards, ETL pipelines, and data analysis projects built with Tab
 
 ---
 
-### 4. Insurance & Beyond — LATAM
+### 4. Insurance & Beyond LATAM
 
 **Tools:** Python, OECD API, SQL, Tableau | **Description:** ELT pipeline and interactive Tableau dashboard analyzing life and non-life insurance market indicators across 17 Latin American countries (2018–2022).
 
