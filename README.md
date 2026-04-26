@@ -3,7 +3,7 @@
 #  Portfolio
 ### Emely Lopez | Data Visualization
 
-Interactive dashboards, ETL pipelines, and data analysis projects built with Tableau, Python, SQL, and Databricks.
+Interactive dashboards, ETL pipelines, and data analysis projects built with Tableau, Python and SQL.
 
 ---
 
