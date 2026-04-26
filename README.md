@@ -61,5 +61,5 @@ Interactive dashboards, ETL pipelines, and data analysis projects built with Tab
 ---
 
 ## Contact
-- **LinkedIn:** linkedin.com/in/emely-lopez
+- **LinkedIn:** [linkedin.com/in/emely-lopez](https://www.linkedin.com/in/emelyl%C3%B3pezprado/)
 - **Tableau Public:** public.tableau.com/app/profile/emely.lopez8421
